@@ -1,0 +1,5 @@
+{
+    "hive_host" : "https://YOURHOSTNAME",
+    "hive_port" : "YOURHIVEPORT",
+    "hive_api_key" : "YOURAPIKEY"
+}
